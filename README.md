@@ -21,7 +21,7 @@ The key goal is to **identify patterns, trends, and disparities** between countr
 
 ---
 
-## 🧩 Technologies Used
+## 🧩 Tools Used
 - **Python 3.x**
 - **SQL** (SQLite/MySQL)
 - **Pandas** for data manipulation
